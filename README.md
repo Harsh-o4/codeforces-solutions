@@ -1,4 +1,4 @@
-# Codeforces
+# Codeforces Solutions
 Solution of codeforces problems I solve.
 <br>
 
@@ -9,4 +9,4 @@ Solution of codeforces problems I solve.
 | 2094A | Trippi Troppi                   |     800       | [View Solution](solutions/trippi_troppi.cpp)      | [Attempt](https://codeforces.com/problemset/problem/2094/A)   |
 | 2014B | Robin Hood and the Major Oak    |     800       | [View Solution](solutions/robin_hood.cpp)         | [Attempt](https://codeforces.com/problemset/problem/2014/B)    |
 
-<p align="right"><a href="#codeforces">⬆️Back to top</a></p>
+<p align="right"><a href="#codeforces-solutions">⬆️Back to top</a></p>
