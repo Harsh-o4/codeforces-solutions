@@ -6,6 +6,7 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 1328A | Divisibility Problem            |     800       | [View Solution](solutions/divisibility_problem.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1328/A)   |
 | 2094A | Trippi Troppi                   |     800       | [View Solution](solutions/trippi_troppi.cpp)      | [Attempt](https://codeforces.com/problemset/problem/2094/A)   |
 | 2014B | Robin Hood and the Major Oak    |     800       | [View Solution](solutions/robin_hood.cpp)         | [Attempt](https://codeforces.com/problemset/problem/2014/B)    |
 
