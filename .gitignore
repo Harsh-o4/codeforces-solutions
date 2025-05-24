@@ -5,11 +5,17 @@
 *.obj
 *.gch
 
-# Ignore all files in root dir with no extension
-*
-!*/        # Don't ignore directories
-!*.cpp     # Keep source files
-!*.h       # Keep header files
+# Ignore files in root dir with no extension (common for C++ executables)
+# But keep directories and source/header files
+# This pattern ignores files in the root directory with no extension
+/[!.]*
+
+# Don't ignore directories
+!*/
+
+# Keep source files
+!*.cpp
+!*.h
 
 # Ignore VS Code settings if used
 .vscode/
