@@ -5,5 +5,11 @@
 *.obj
 *.gch
 
+# Ignore all files in root dir with no extension
+*
+!*/        # Don't ignore directories
+!*.cpp     # Keep source files
+!*.h       # Keep header files
+
 # Ignore VS Code settings if used
 .vscode/
