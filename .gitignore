@@ -4,6 +4,7 @@
 *.o
 *.obj
 *.gch
+*
 
 # Ignore files in root dir with no extension (common for C++ executables)
 # But keep directories and source/header files
@@ -16,6 +17,7 @@
 # Keep source files
 !*.cpp
 !*.h
+!*.c
 
 # Ignore VS Code settings if used
 .vscode/
