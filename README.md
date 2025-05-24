@@ -6,6 +6,7 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 281A  | Word Capitalization             |     800       | [View Solution](solutions/word_capitalization.cpp)      | [Attempt](https://codeforces.com/problemset/problem/281/A)   |
 | 69A   | Young Physicist                 |    1000       | [View Solution](solutions/young_physicist.cpp)      | [Attempt](https://codeforces.com/problemset/problem/69/A)   |
 | 275A  | Lights Out                      |     900       | [View Solution](solutions/lights_out.cpp)      | [Attempt](https://codeforces.com/problemset/problem/275/A)   |
 | 271A  | Beautiful Year                  |     800       | [View Solution](solutions/beautiful_year.cpp)      | [Attempt](https://codeforces.com/problemset/problem/271/A)   |
