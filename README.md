@@ -6,6 +6,8 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 80A   | Panoramix's Prediction          |     800       | [View Solution](solutions/npanoramixs_prediction.cpp)      | [Attempt](https://codeforces.com/problemset/problem/80/A)   |
+| 110A  | Nearly Lucky Number             |     800       | [View Solution](solutions/nearly_lucky_number.cpp)      | [Attempt](https://codeforces.com/problemset/problem/110/A)   |
 | 281A  | Word Capitalization             |     800       | [View Solution](solutions/word_capitalization.cpp)      | [Attempt](https://codeforces.com/problemset/problem/281/A)   |
 | 69A   | Young Physicist                 |    1000       | [View Solution](solutions/young_physicist.cpp)      | [Attempt](https://codeforces.com/problemset/problem/69/A)   |
 | 275A  | Lights Out                      |     900       | [View Solution](solutions/lights_out.cpp)      | [Attempt](https://codeforces.com/problemset/problem/275/A)   |
