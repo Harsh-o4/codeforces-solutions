@@ -6,6 +6,8 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 155A  | I_love_%username%               |     800       | [View Solution](solutions/username.cpp)      | [Attempt](https://codeforces.com/problemset/problem/155/A)   |
+| 248A  | Cupboards                       |     800       | [View Solution](solutions/cupboards.cpp)      | [Attempt](https://codeforces.com/problemset/problem/248/A)   |
 | 148A  | Insomnia cure                   |     800       | [View Solution](solutions/insomnia_cure.cpp)      | [Attempt](https://codeforces.com/problemset/problem/148/A)   |
 | 200B  | Drinks                          |     800       | [View Solution](solutions/drinks.cpp)      | [Attempt](https://codeforces.com/problemset/problem/200/B)   |
 | 144A  | Arrival of the General          |     800       | [View Solution](solutions/arrival.cpp)      | [Attempt](https://codeforces.com/problemset/problem/144/A)   |
