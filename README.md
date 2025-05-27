@@ -6,6 +6,8 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 200B  | Drinks                          |     800       | [View Solution](solutions/drinks.cpp)      | [Attempt](https://codeforces.com/problemset/problem/200/B)   |
+| 144A  | Arrival of the General          |     800       | [View Solution](solutions/arrival.cpp)      | [Attempt](https://codeforces.com/problemset/problem/144/A)   |
 | 61A   | Ultra-Fast Mathematician        |     800       | [View Solution](solutions/ultrafast.cpp)      | [Attempt](https://codeforces.com/problemset/problem/61/A)   |
 | 266A  | Stones on the Table             |     800       | [View Solution](solutions/stones.cpp)      | [Attempt](https://codeforces.com/problemset/problem/266/A)   |
 | 80A   | Panoramix's Prediction          |     800       | [View Solution](solutions/panoramixs_prediction.cpp)      | [Attempt](https://codeforces.com/problemset/problem/80/A)   |
