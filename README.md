@@ -6,6 +6,7 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 148A  | Insomnia cure                   |     800       | [View Solution](solutions/insomnia_cure.cpp)      | [Attempt](https://codeforces.com/problemset/problem/148/A)   |
 | 200B  | Drinks                          |     800       | [View Solution](solutions/drinks.cpp)      | [Attempt](https://codeforces.com/problemset/problem/200/B)   |
 | 144A  | Arrival of the General          |     800       | [View Solution](solutions/arrival.cpp)      | [Attempt](https://codeforces.com/problemset/problem/144/A)   |
 | 61A   | Ultra-Fast Mathematician        |     800       | [View Solution](solutions/ultrafast.cpp)      | [Attempt](https://codeforces.com/problemset/problem/61/A)   |
