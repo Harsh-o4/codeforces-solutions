@@ -6,6 +6,8 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 61A   | Ultra-Fast Mathematician        |     800       | [View Solution](solutions/ultrafast.cpp)      | [Attempt](https://codeforces.com/problemset/problem/61/A)   |
+| 266A  | Stones on the Table             |     800       | [View Solution](solutions/stones.cpp)      | [Attempt](https://codeforces.com/problemset/problem/266/A)   |
 | 80A   | Panoramix's Prediction          |     800       | [View Solution](solutions/panoramixs_prediction.cpp)      | [Attempt](https://codeforces.com/problemset/problem/80/A)   |
 | 110A  | Nearly Lucky Number             |     800       | [View Solution](solutions/nearly_lucky_number.cpp)      | [Attempt](https://codeforces.com/problemset/problem/110/A)   |
 | 281A  | Word Capitalization             |     800       | [View Solution](solutions/word_capitalization.cpp)      | [Attempt](https://codeforces.com/problemset/problem/281/A)   |
