@@ -6,6 +6,10 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 71A   | Way Too Long Words              |     800       | [View Solution](solutions/long_words.cpp)      | [Attempt](https://codeforces.com/problemset/problem/71/A)   |
+| 228A  | Is your horseshoe on the other hoof?|  800      | [View Solution](solutions/horseshoe.cpp)      | [Attempt](https://codeforces.com/problemset/problem/228/A)   |
+| 339A  | Helpful Maths                   |     800       | [View Solution](solutions/helpful_maths.cpp)      | [Attempt](https://codeforces.com/problemset/problem/339/A)   |
+| 116A  | Tram                            |     800       | [View Solution](solutions/tram.cpp)      | [Attempt](https://codeforces.com/problemset/problem/116/A)   |
 | 155A  | I_love_%username%               |     800       | [View Solution](solutions/username.cpp)      | [Attempt](https://codeforces.com/problemset/problem/155/A)   |
 | 248A  | Cupboards                       |     800       | [View Solution](solutions/cupboards.cpp)      | [Attempt](https://codeforces.com/problemset/problem/248/A)   |
 | 148A  | Insomnia cure                   |     800       | [View Solution](solutions/insomnia_cure.cpp)      | [Attempt](https://codeforces.com/problemset/problem/148/A)   |
