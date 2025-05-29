@@ -6,6 +6,8 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 141A  | Amusing Joke                    |     800       | [View Solution](solutions/amusing_joke.cpp)      | [Attempt](https://codeforces.com/problemset/problem/141/A)   |
+| 236A  | Boy or Girl                     |     800       | [View Solution](solutions/boy_or_girl.cpp)      | [Attempt](https://codeforces.com/problemset/problem/236/A)   |
 | 71A   | Way Too Long Words              |     800       | [View Solution](solutions/long_words.cpp)      | [Attempt](https://codeforces.com/problemset/problem/71/A)   |
 | 228A  | Is your horseshoe on the other hoof?|  800      | [View Solution](solutions/horseshoe.cpp)      | [Attempt](https://codeforces.com/problemset/problem/228/A)   |
 | 339A  | Helpful Maths                   |     800       | [View Solution](solutions/helpful_maths.cpp)      | [Attempt](https://codeforces.com/problemset/problem/339/A)   |
