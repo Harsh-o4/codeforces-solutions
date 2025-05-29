@@ -6,6 +6,11 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 282A  | Bit++                           |     800       | [View Solution](solutions/bit++.cpp)      | [Attempt](https://codeforces.com/problemset/problem/282/A)   |
+| 231A  | Team                            |     800       | [View Solution](solutions/team.cpp)      | [Attempt](https://codeforces.com/problemset/problem/231/A)   |
+| 112A  | Petya and Strings               |     800       | [View Solution](solutions/petya.cpp)      | [Attempt](https://codeforces.com/problemset/problem/112/A)   |
+| 133A  | HQ9+                            |     900       | [View Solution](solutions/hq9+.cpp)      | [Attempt](https://codeforces.com/problemset/problem/133/A)   |
+| 151A  | Soft Drinking                   |     800       | [View Solution](solutions/soft_drinking.cpp)      | [Attempt](https://codeforces.com/problemset/problem/151/A)   |
 | 141A  | Amusing Joke                    |     800       | [View Solution](solutions/amusing_joke.cpp)      | [Attempt](https://codeforces.com/problemset/problem/141/A)   |
 | 236A  | Boy or Girl                     |     800       | [View Solution](solutions/boy_or_girl.cpp)      | [Attempt](https://codeforces.com/problemset/problem/236/A)   |
 | 71A   | Way Too Long Words              |     800       | [View Solution](solutions/long_words.cpp)      | [Attempt](https://codeforces.com/problemset/problem/71/A)   |
