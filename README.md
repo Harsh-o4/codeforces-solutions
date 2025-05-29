@@ -6,6 +6,8 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 272A  | Dima and Friends                |    1000       | [View Solution](solutions/dima.cpp)      | [Attempt](https://codeforces.com/problemset/problem/272/A)   |
+| 227B  | Effective Approach              |    1100       | [View Solution](solutions/effective_approach.cpp)      | [Attempt](https://codeforces.com/problemset/problem/227/B)   |
 | 282A  | Bit++                           |     800       | [View Solution](solutions/bit++.cpp)      | [Attempt](https://codeforces.com/problemset/problem/282/A)   |
 | 231A  | Team                            |     800       | [View Solution](solutions/team.cpp)      | [Attempt](https://codeforces.com/problemset/problem/231/A)   |
 | 112A  | Petya and Strings               |     800       | [View Solution](solutions/petya.cpp)      | [Attempt](https://codeforces.com/problemset/problem/112/A)   |
