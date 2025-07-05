@@ -6,6 +6,9 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| 129A  | Cookies                         |     900       | [View Solution](solutions/cookies.cpp)      | [Attempt](https://codeforces.com/problemset/problem/129/A)   |
+| 104A  | Blackjack                       |     800       | [View Solution](solutions/blackjack.cpp)      | [Attempt](https://codeforces.com/problemset/problem/104/A)   |
+| 450A  | Jzzhu and Children              |    1000       | [View Solution](solutions/jzzhu.cpp)      | [Attempt](https://codeforces.com/problemset/problem/450/A)   |
 | 272A  | Dima and Friends                |    1000       | [View Solution](solutions/dima.cpp)      | [Attempt](https://codeforces.com/problemset/problem/272/A)   |
 | 227B  | Effective Approach              |    1100       | [View Solution](solutions/effective_approach.cpp)      | [Attempt](https://codeforces.com/problemset/problem/227/B)   |
 | 282A  | Bit++                           |     800       | [View Solution](solutions/bit++.cpp)      | [Attempt](https://codeforces.com/problemset/problem/282/A)   |
