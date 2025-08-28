@@ -4,8 +4,11 @@ Solution of codeforces problems I solve.
 
 <h2>List of questions attempted:</h2>
 
-| #     | Problem Name                    | Difficulty | Solution File                        | Problem Link                                       |
-|-------|---------------------------------|------------|--------------------------------------|----------------------------------------------------|
+| #     | Problem Name                    | Difficulty    | Solution File                        | Problem Link                                       |
+|-------|---------------------------------|---------------|--------------------------------------|----------------------------------------------------|
+| 139A  | Petr and Book                   |    1000       | [View Solution](solutions/petr_and_book.cpp)      | [Attempt](https://codeforces.com/problemset/problem/139/A)   |
+| 165A  | Supercentral Points             |    1000       | [View Solution](solutions/supercentral_point.cpp)      | [Attempt](https://codeforces.com/problemset/problem/165/A)   |
+| 334A  | Candy Bags                      |    1000       | [View Solution](solutions/candy_bags.cpp)      | [Attempt](https://codeforces.com/problemset/problem/334/A)   |
 | 129A  | Cookies                         |     900       | [View Solution](solutions/cookies.cpp)      | [Attempt](https://codeforces.com/problemset/problem/129/A)   |
 | 104A  | Blackjack                       |     800       | [View Solution](solutions/blackjack.cpp)      | [Attempt](https://codeforces.com/problemset/problem/104/A)   |
 | 450A  | Jzzhu and Children              |    1000       | [View Solution](solutions/jzzhu.cpp)      | [Attempt](https://codeforces.com/problemset/problem/450/A)   |
