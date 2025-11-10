@@ -6,7 +6,10 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty    | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|---------------|--------------------------------------|----------------------------------------------------|
-| 139A  | Petr and Book                   |    1000       | [View Solution](solutions/petr_and_book.cpp)      | [Attempt](https://codeforces.com/problemset/problem/139/A)   |
+| 1903A | Halloumi Boxes                  |     800       | [View Solution](solutions/halloumi_boxes.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1903/A)   |
+| 318A  | Even Odds                       |     900       | [View Solution](solutions/even_odds.cpp)      | [Attempt](https://codeforces.com/problemset/problem/318/A)   |
+|  34A  | Reconnaissance                  |     800       | [View Solution](solutions/reconnaissance_2.cpp)      | [Attempt](https://codeforces.com/problemset/problem/34/A)   |
+| 224A  | Parallelepiped                  |    1100       | [View Solution](solutions/parallelepiped.cpp)      | [Attempt](https://codeforces.com/problemset/problem/224/A)   |
 | 165A  | Supercentral Points             |    1000       | [View Solution](solutions/supercentral_point.cpp)      | [Attempt](https://codeforces.com/problemset/problem/165/A)   |
 | 334A  | Candy Bags                      |    1000       | [View Solution](solutions/candy_bags.cpp)      | [Attempt](https://codeforces.com/problemset/problem/334/A)   |
 | 129A  | Cookies                         |     900       | [View Solution](solutions/cookies.cpp)      | [Attempt](https://codeforces.com/problemset/problem/129/A)   |
