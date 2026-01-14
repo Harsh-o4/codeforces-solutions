@@ -6,6 +6,17 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty    | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|---------------|--------------------------------------|----------------------------------------------------|
+| 1862B | Sequence Game                   |     800       | [View Solution](solutions/sequence_game.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1862/B)   |
+| 1866A | Ambitious Kid                   |     800       | [View Solution](solutions/ambitious_kid.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1866/A)   |
+| 1873C | Target Practice                 |     800       | [View Solution](solutions/target_practice.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1873/C)   |
+| 1877A | Goals of Victory                |     800       | [View Solution](solutions/goals_of_victory.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1877/A)   |
+| 1881A | How Much Does Daytona Cost?     |     800       | [View Solution](solutions/daytona_cost.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1878/A)   |
+| 1881A | Don't Try to Count              |     800       | [View Solution](solutions/dont_try_to_count.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1881/A)   |
+| 1890A | Doremy's Paint 3                |     800       | [View Solution](solutions/doremys_paint_3.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1890/A)   |
+| 1896A | Jagged Swaps                    |     800       | [View Solution](solutions/jagged_swaps.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1896/A)   |
+| 1899A | Game with Integers              |     800       | [View Solution](solutions/game_with_intergers.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1899/A)   |
+| 1900A | Cover in Water                  |     800       | [View Solution](solutions/cover_in_water.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1900/A)   |
+| 1901A | Line Trip                       |     800       | [View Solution](solutions/line_trip.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1901/A)   |
 | 1903A | Halloumi Boxes                  |     800       | [View Solution](solutions/halloumi_boxes.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1903/A)   |
 | 318A  | Even Odds                       |     900       | [View Solution](solutions/even_odds.cpp)      | [Attempt](https://codeforces.com/problemset/problem/318/A)   |
 |  34A  | Reconnaissance                  |     800       | [View Solution](solutions/reconnaissance_2.cpp)      | [Attempt](https://codeforces.com/problemset/problem/34/A)   |
