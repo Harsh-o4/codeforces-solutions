@@ -6,6 +6,11 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty    | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|---------------|--------------------------------------|----------------------------------------------------|
+| 1837A | Grasshopper on a Line           |     800       | [View Solution](solutions/grasshopper.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1837/A)   |
+| 1853A | Desorting                       |     800       | [View Solution](solutions/desorting.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1853/A)   |
+| 1857A | Array Coloring                  |     800       | [View Solution](solutions/array_coloring.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1857/A)   |
+| 1858A | Buttons                         |     800       | [View Solution](solutions/buttons.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1858/A)   |
+| 1859A | United We Stand                 |     800       | [View Solution](solutions/united_we_stand.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1859/A)   |
 | 1862B | Sequence Game                   |     800       | [View Solution](solutions/sequence_game.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1862/B)   |
 | 1866A | Ambitious Kid                   |     800       | [View Solution](solutions/ambitious_kid.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1866/A)   |
 | 1873C | Target Practice                 |     800       | [View Solution](solutions/target_practice.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1873/C)   |
