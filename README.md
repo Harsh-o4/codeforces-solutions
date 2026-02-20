@@ -6,6 +6,7 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty    | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|---------------|--------------------------------------|----------------------------------------------------|
+| 1806A | Walking Master                  |     800       | [View Solution](solutions/walking_master.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1806/A)   |
 | 1829B | Blank Space                     |     800       | [View Solution](solutions/blank_space.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1829/B)   |
 | 1831A | Twin Permutations               |     800       | [View Solution](solutions/twin_perm.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1831/A)   |
 | 1834A | Unit Array                      |     800       | [View Solution](solutions/unit_array.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1834/A)   |
