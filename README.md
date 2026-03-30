@@ -6,6 +6,9 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty    | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|---------------|--------------------------------------|----------------------------------------------------|
+| 1791C | Prepend and Append              |     800       | [View Solution](solutions/prepend_append.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1791/C)   |
+| 1805A | We Need the Zero                |     800       | [View Solution](solutions/need_zer.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1805/A)   |
+| 1845A | Forbidden Integer               |     800       | [View Solution](solutions/forbidden_integer.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1845/A)   |
 | 1806A | Walking Master                  |     800       | [View Solution](solutions/walking_master.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1806/A)   |
 | 1829B | Blank Space                     |     800       | [View Solution](solutions/blank_space.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1829/B)   |
 | 1831A | Twin Permutations               |     800       | [View Solution](solutions/twin_perm.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1831/A)   |
