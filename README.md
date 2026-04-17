@@ -6,6 +6,10 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty    | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|---------------|--------------------------------------|----------------------------------------------------|
+| 1807D | Odd Queries                     |     900       | [View Solution](solutions/odd_queries.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1807/D)   |
+| 2137B | Fun Permutation                 |     900       | [View Solution](solutions/fun_perm.cpp)      | [Attempt](https://codeforces.com/problemset/problem/2137/B)   |
+| 2140B | Another Divisibility Problem    |     900       | [View Solution](solutions/another_div.cpp)      | [Attempt](https://codeforces.com/problemset/problem/2140/B)   |
+|   96A | Football                        |     900       | [View Solution](solutions/football.cpp)      | [Attempt](https://codeforces.com/problemset/problem/96/A)   |
 | 1791C | Prepend and Append              |     800       | [View Solution](solutions/prepend_append.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1791/C)   |
 | 1805A | We Need the Zero                |     800       | [View Solution](solutions/need_zer.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1805/A)   |
 | 1845A | Forbidden Integer               |     800       | [View Solution](solutions/forbidden_integer.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1845/A)   |
