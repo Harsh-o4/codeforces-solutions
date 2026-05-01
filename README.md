@@ -6,6 +6,8 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty    | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|---------------|--------------------------------------|----------------------------------------------------|
+| 1788A | One and Two                     |     800       | [View Solution](solutions/one_and_two.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1788/A)   |
+| 1789A | Serval and Mocha's Array        |     800       | [View Solution](solutions/serval_mocha.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1789/A)   |
 | 1807D | Odd Queries                     |     900       | [View Solution](solutions/odd_queries.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1807/D)   |
 | 2137B | Fun Permutation                 |     900       | [View Solution](solutions/fun_perm.cpp)      | [Attempt](https://codeforces.com/problemset/problem/2137/B)   |
 | 2140B | Another Divisibility Problem    |     900       | [View Solution](solutions/another_div.cpp)      | [Attempt](https://codeforces.com/problemset/problem/2140/B)   |
