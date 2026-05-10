@@ -6,6 +6,10 @@ Solution of codeforces problems I solve.
 
 | #     | Problem Name                    | Difficulty    | Solution File                        | Problem Link                                       |
 |-------|---------------------------------|---------------|--------------------------------------|----------------------------------------------------|
+| 1761A | Two Permutations                |     800       | [View Solution](solutions/two_perm.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1761/A)   |
+| 1766A | Extremely Round                 |     800       | [View Solution](solutions/extremely_round.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1766/A)   |
+| 1777A | Everybody Likes Good Arrays!    |     800       | [View Solution](solutions/good_arrays.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1777/A)   |
+| 1783A | Make it Beautiful               |     800       | [View Solution](solutions/make_it_beautiful.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1783/A)   |
 | 1788A | One and Two                     |     800       | [View Solution](solutions/one_and_two.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1788/A)   |
 | 1789A | Serval and Mocha's Array        |     800       | [View Solution](solutions/serval_mocha.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1789/A)   |
 | 1807D | Odd Queries                     |     900       | [View Solution](solutions/odd_queries.cpp)      | [Attempt](https://codeforces.com/problemset/problem/1807/D)   |
