@@ -1,23 +1,72 @@
-# Ignore compiled files
-*.exe
-*.out
-*.o
-*.obj
-*.gch
+# =========================================
+# Ignore everything by default
+# =========================================
 *
 
-# Ignore files in root dir with no extension (common for C++ executables)
-# But keep directories and source/header files
-# This pattern ignores files in the root directory with no extension
-/[!.]*
-
-# Don't ignore directories
+# =========================================
+# Allow directories
+# =========================================
 !*/
 
-# Keep source files
+# =========================================
+# Source files
+# =========================================
 !*.cpp
-!*.h
+!*.cc
 !*.c
+!*.h
+!*.hpp
+!*.py
+!*.java
 
-# Ignore VS Code settings if used
+# =========================================
+# Text / config / docs
+# =========================================
+!*.md
+!*.txt
+!*.json
+!*.yml
+!*.yaml
+!.gitignore
+
+# =========================================
+# VS Code
+# =========================================
 .vscode/
+
+# =========================================
+# JetBrains IDEs
+# =========================================
+.idea/
+*.iml
+
+# =========================================
+# Vim
+# =========================================
+*.swp
+*.swo
+*~
+
+# =========================================
+# macOS / Windows junk
+# =========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================================
+# Build folders
+# =========================================
+build/
+bin/
+dist/
+out/
+
+# =========================================
+# CMake
+# =========================================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
